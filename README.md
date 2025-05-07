@@ -1,4 +1,4 @@
-# 💻 Mohammad Aliz Hanoun  
+<!--# 💻 Mohammad Aliz Hanoun  
 ### 🚀 Software Engineer | Web Developer | Tech Enthusiast
 
 I am a **Software Engineering student** passionate about **web development**, **problem-solving**, and **modern frameworks**. My expertise includes **React and JavaScript**, and I love building interactive and scalable web applications.
@@ -19,7 +19,7 @@ I am a **Software Engineering student** passionate about **web development**, **
 
 ### 🔥 Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-<!--![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)-->
+
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
@@ -30,3 +30,4 @@ I am a **Software Engineering student** passionate about **web development**, **
 ---
 
 ⭐ **Let's build something amazing together!** 🚀
+-->
